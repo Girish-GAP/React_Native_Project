@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "956567750741",
+    "project_id": "finalauth-47d35",
+    "storage_bucket": "finalauth-47d35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956567750741:android:eaf1346666d715a2682cdc",
+        "android_client_info": {
+          "package_name": "com.trunome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956567750741-bgqf4j7p3ek4269pdj3tpgbal55q27c8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trunome",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "956567750741-n95oc6fga25n8lv7scvkf5k5os5725ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd6DBJi-WhEy4heKKoMAJI7znGnQ_zEY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956567750741-n95oc6fga25n8lv7scvkf5k5os5725ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
